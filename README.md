@@ -23,7 +23,7 @@
 
 ## 🎓 Bootcamp Projects
 
-**1. [Vitta] **  
+1. VITTA
 Web platform designed to connect users seeking to improve their nutritional health with certified professionals in a fast, simple, and reliable way.
 
 As a team, we focused on building a smooth and intuitive experience for both users and nutritionists. Users can easily sign up, purchase a membership, and book appointments with specialists in just a few clicks.
